@@ -1,2 +1,5 @@
 my resolusi
 -membuat website 2x 1 bulan
+-bisa css
+-bisa php
+-bisa opp
